@@ -9,13 +9,13 @@ Para usar a calculadora, você precisa ter o Node.js e o npm instalados em seu c
 1. Clone este repositório em seu computador:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/PauloRamos12/calculator-react.git
 ```
 
 2. Acesse o diretório do projeto:
 
 ```
-cd nome-do-repositorio
+cd calculator-react
 ```
 
 3. Instale as dependências do projeto:
